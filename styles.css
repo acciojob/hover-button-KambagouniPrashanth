@@ -1,14 +1,15 @@
 
 /* Your CSS Code here. */
 #btn{
-	 width: 10em;
-    height: 5ex;
-    background-color: black;
-    border-color:firebrick;
-    border-radius: 5px;
+/* 	 width: 10em;
+    height: 5ex; */
+    background-color:black; 
+    border-color:rgb(255, 255, 255);
+    border-radius:5px;
     font-weight: bold;
+	width:50%;
     color: white;
-	padding:20px 40px;
+	padding:20px 10px;
    
 }
 #btn:hover{
