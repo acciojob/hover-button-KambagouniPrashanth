@@ -12,12 +12,8 @@
 	padding:20px 10px;
    
 }
-#btn:hover{
-	background-color:yellow;
-	color:black;
-	border-radius:30px;
-	border-style:solid;
-/* 	border-style:solid;
-	border-radius:30px: */
-	
+#btn:hover {
+  background-color: yellow;
+  color: black;
+  border-radius:30px;
 }
